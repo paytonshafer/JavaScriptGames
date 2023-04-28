@@ -1,0 +1,24 @@
+#grid {
+    width: 450px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#score{
+    padding-right: 4%;
+}
+
+#reset{
+    height: 20px;
+    width: 100px;
+    padding-bottom: 1%;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(199, 199, 199);
+}
